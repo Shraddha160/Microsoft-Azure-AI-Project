@@ -1,5 +1,0 @@
-flask
-azure-cognitiveservices-vision-computervision
-azure-ai-translation-document
-azure-ai-textanalytics
-azure-cognitiveservices-speech
